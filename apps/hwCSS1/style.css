@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#grey {
+    background-color: grey;
+    margin: 1%;
+    height: 80px;
+}
+.internal-container {
+    padding: 0% 5%;
+}
+
+#green {
+    background-color: green;
+    height: 150px;
+}
+#purple {
+    background-color: purple;
+}
+#blue {
+    background-color: blue;
+    float: right;
+}
+.left-footer, .right-footer {
+    display: inline-block;
+    width: 49%;
+    height: 20px;
+    margin-top: 1%;
+}

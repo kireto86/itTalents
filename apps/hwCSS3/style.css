@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.conteiner {
+    padding: 1% 5%;
+}
+#black {
+    background-color: black;
+    height: 30px;
+}
+.internal-conteiner {
+    padding: 1% 0%;
+    text-align: center;
+}
+.internal-conteiner > div {
+    display: inline-block;
+    vertical-align: bottom;
+    height: 200px;
+}
+#rebeccapurple {
+    background-color: rebeccapurple;
+    width: 15%;
+    float: left;
+}
+#green {
+    background-color: green;
+    width: 65%;
+}
+#red {
+    background-color: red;
+    width: 15%;
+    float: right;
+}
+#blue {
+    background-color: blue;
+    height: 30px;
+  
+}
